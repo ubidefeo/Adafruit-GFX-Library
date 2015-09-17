@@ -1,4 +1,10 @@
 + some implementation of helpers for text display [ ubi ]
+useful links
+
+https://www.arduino.cc/en/Guide/TFT#toc1
+http://www.tweaking4all.com/hardware/arduino/sainsmart-arduino-color-display/
+https://www.pjrc.com/teensy/td_libs_ST7735.html
+
 
 This is the core graphics library for all our displays, providing a common set of graphics primitives (points, lines, circles, etc.).  It needs to be paired with a hardware-specific library for each display device we carry (to handle the lower-level functions).
 
